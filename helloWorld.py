@@ -1,1 +1,1 @@
-print("Hello, world!")
+print("Deze text is verranderd.")
