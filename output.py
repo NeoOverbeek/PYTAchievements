@@ -6,15 +6,15 @@
 10 // 3
 
 # Verander <JOUW NAAM HIER> in je eigen naam
-print('Mijn naam is <JOUW NAAM HIER>')
-naam = '<JOUW NAAM HIER>'
+print('Mijn naam is Neo Overbeek')
+naam = 'Neo Overbeek'
 print(naam)
 print(naam.upper())
 print(naam[0:2])
 print(naam[::-1])
 
 # Verander dit in je eigen leeftijd
-leeftijd = 15
+leeftijd = 16
 print('Hallo ' + naam + ' ben je al ' + str(leeftijd) + ' jaar?')
 leeftijd = leeftijd + 1
 leeftijd
